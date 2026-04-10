@@ -1,0 +1,46 @@
+html {
+  font-size: 14px;
+}
+
+body {
+  background: #f8f9fa;
+  color: #212529;
+}
+
+.auth-shell {
+  min-height: calc(100vh - 120px);
+  display: grid;
+  place-items: center;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 520px;
+}
+
+.toolbar .btn {
+  min-width: 46px;
+}
+
+.search-box {
+  width: 100%;
+  max-width: 280px;
+}
+
+.user-table th,
+.user-table td {
+  vertical-align: middle;
+}
+
+.checkbox-col {
+  width: 52px;
+}
+
+.table > :not(caption) > * > * {
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
+}
+
+.badge {
+  font-weight: 500;
+}

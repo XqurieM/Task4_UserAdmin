@@ -1,0 +1,15 @@
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\bin\Debug\net8.0\Task4.UserAdmin.Application.deps.json
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\bin\Debug\net8.0\Task4.UserAdmin.Application.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\bin\Debug\net8.0\Task4.UserAdmin.Application.pdb
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\bin\Debug\net8.0\Task4.UserAdmin.Domain.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\bin\Debug\net8.0\Task4.UserAdmin.Domain.pdb
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\Task4.UserAdmin.Application.csproj.AssemblyReference.cache
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\Task4.UserAdmin.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\Task4.UserAdmin.Application.AssemblyInfoInputs.cache
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\Task4.UserAdmin.Application.AssemblyInfo.cs
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\Task4.UserAdmin.Application.csproj.CoreCompileInputs.cache
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\Task4.Us.AE21E7E2.Up2Date
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\Task4.UserAdmin.Application.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\refint\Task4.UserAdmin.Application.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\Task4.UserAdmin.Application.pdb
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Application\obj\Debug\net8.0\ref\Task4.UserAdmin.Application.dll

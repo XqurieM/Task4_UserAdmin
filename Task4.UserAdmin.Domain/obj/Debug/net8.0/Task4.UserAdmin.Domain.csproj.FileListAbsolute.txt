@@ -1,0 +1,11 @@
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\bin\Debug\net8.0\Task4.UserAdmin.Domain.deps.json
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\bin\Debug\net8.0\Task4.UserAdmin.Domain.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\bin\Debug\net8.0\Task4.UserAdmin.Domain.pdb
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\obj\Debug\net8.0\Task4.UserAdmin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\obj\Debug\net8.0\Task4.UserAdmin.Domain.AssemblyInfoInputs.cache
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\obj\Debug\net8.0\Task4.UserAdmin.Domain.AssemblyInfo.cs
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\obj\Debug\net8.0\Task4.UserAdmin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\obj\Debug\net8.0\Task4.UserAdmin.Domain.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\obj\Debug\net8.0\refint\Task4.UserAdmin.Domain.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\obj\Debug\net8.0\Task4.UserAdmin.Domain.pdb
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Domain\obj\Debug\net8.0\ref\Task4.UserAdmin.Domain.dll

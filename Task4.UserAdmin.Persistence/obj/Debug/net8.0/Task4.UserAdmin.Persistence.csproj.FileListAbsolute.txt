@@ -1,0 +1,17 @@
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\bin\Debug\net8.0\Task4.UserAdmin.Persistence.deps.json
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\bin\Debug\net8.0\Task4.UserAdmin.Persistence.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\bin\Debug\net8.0\Task4.UserAdmin.Persistence.pdb
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\bin\Debug\net8.0\Task4.UserAdmin.Application.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\bin\Debug\net8.0\Task4.UserAdmin.Domain.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\bin\Debug\net8.0\Task4.UserAdmin.Application.pdb
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\bin\Debug\net8.0\Task4.UserAdmin.Domain.pdb
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\Task4.UserAdmin.Persistence.csproj.AssemblyReference.cache
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\Task4.UserAdmin.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\Task4.UserAdmin.Persistence.AssemblyInfoInputs.cache
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\Task4.UserAdmin.Persistence.AssemblyInfo.cs
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\Task4.UserAdmin.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\Task4.Us.8C8971FC.Up2Date
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\Task4.UserAdmin.Persistence.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\refint\Task4.UserAdmin.Persistence.dll
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\Task4.UserAdmin.Persistence.pdb
+C:\Users\EBRAR GUZEL\Desktop\Task4_UserAdmin_CQRS\Task4.UserAdmin\Task4.UserAdmin.Persistence\obj\Debug\net8.0\ref\Task4.UserAdmin.Persistence.dll

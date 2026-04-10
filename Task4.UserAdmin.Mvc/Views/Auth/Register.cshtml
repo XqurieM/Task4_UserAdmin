@@ -1,0 +1,46 @@
+@model RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="auth-shell">
+    <div class="auth-card card shadow-sm border-0">
+        <div class="card-body p-4 p-md-5">
+            <div class="mb-4">
+                <div class="text-uppercase text-secondary small fw-semibold">Create account</div>
+                <h1 class="h3 mb-1">Register</h1>
+                <p class="text-muted mb-0">Registration is immediate, e-mail confirmation is sent asynchronously.</p>
+            </div>
+
+            <form asp-action="Register" method="post" novalidate>
+                @Html.AntiForgeryToken()
+                <div asp-validation-summary="ModelOnly" class="text-danger small mb-3"></div>
+                <div class="mb-3">
+                    <label asp-for="FullName" class="form-label"></label>
+                    <input asp-for="FullName" class="form-control" />
+                    <span asp-validation-for="FullName" class="text-danger small"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" autocomplete="email" />
+                    <span asp-validation-for="Email" class="text-danger small"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label"></label>
+                    <input asp-for="Password" class="form-control" type="password" />
+                    <span asp-validation-for="Password" class="text-danger small"></span>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Register</button>
+            </form>
+
+            <div class="d-flex justify-content-between align-items-center mt-4 small">
+                <span class="text-muted">Already registered?</span>
+                <a asp-action="Login">Back to login</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
