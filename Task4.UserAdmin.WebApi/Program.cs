@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Task4.UserAdmin.Application.Extensions;
-using Task4.UserAdmin.Persistence.Extensions;
 using Task4.UserAdmin.Application.Interfaces;
+using Task4.UserAdmin.Persistence.Extensions;
 using Task4.UserAdmin.WebApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,27 +19,25 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
-var app = builder.Build();
-
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-app.UseSwagger();
-app.UseSwaggerUI();
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAll",
-        x => x.AllowAnyOrigin()
+    options.AddPolicy("AllowAll", policy =>
+        policy.AllowAnyOrigin()
               .AllowAnyHeader()
               .AllowAnyMethod());
 });
 
-app.UseCors("AllowAll");    
+var app = builder.Build();
+
+app.UseSwagger();
+app.UseSwaggerUI();
+
+app.UseCors("AllowAll");
+
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
+
 app.MapControllers();
+
 app.Run();
