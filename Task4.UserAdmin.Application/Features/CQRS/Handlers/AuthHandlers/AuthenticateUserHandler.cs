@@ -53,7 +53,7 @@ public sealed class AuthenticateUserHandler : Features.CQRS.ICQRS.IAuthenticateU
         return new AuthenticateUserResult
         {
             Success = true,
-            Message = user.IsEmailVerified ? "Giriş başarılı." : "Giriş başarılı. E-postanız henüz doğrulanmamış.",
+            Message = user.IsEmailVerified ? "Login successful." : "Login successful. Your email has not been verified yet.",
             UserId = user.Id,
             FullName = user.FullName,
             Email = user.Email,
