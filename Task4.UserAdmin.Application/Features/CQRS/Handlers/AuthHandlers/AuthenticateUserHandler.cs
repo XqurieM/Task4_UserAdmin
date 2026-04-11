@@ -37,12 +37,12 @@ public sealed class AuthenticateUserHandler : Features.CQRS.ICQRS.IAuthenticateU
 
         if (user.IsBlocked)
         {
-            return new AuthenticateUserResult { Success = false, Message = "This user is blocked. (or This user account has been blocked.)" };
+            return new AuthenticateUserResult { Success = false, Message = "This user account has been blocked" };
         }
 
         if (!_passwordHasher.Verify(authenticateUserQuery.Password, user.PasswordSalt, user.PasswordHash))
         {
-            return new AuthenticateUserResult { Success = false, Message = "Invalid email or password. (This is the same as the second phrase)." };
+            return new AuthenticateUserResult { Success = false, Message = "Invalid email or password." };
         }
 
         await connection.ExecuteAsync(
