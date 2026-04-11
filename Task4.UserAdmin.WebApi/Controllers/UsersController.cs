@@ -7,7 +7,7 @@ using Task4.UserAdmin.Application.Features.CQRS.Queries.UserQueries;
 namespace Task4.UserAdmin.WebApi.Controllers;
 
 [ApiController]
-[Authorize]
+//[Authorize]
 [Route("api/users")]
 public sealed class UsersController : ControllerBase
 {
